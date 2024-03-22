@@ -1,4 +1,4 @@
-# Reservation System
+# Hotel Reservation System
 
 This project is a reservation system implemented in Java with JDBC for database connectivity and MySQL as the backend database.
 
